@@ -5,3 +5,8 @@ class Plane(object):
 
     def land(self):
         self.isflying = False
+
+    def take_off(self):
+        if self.isflying == True:
+            raise Exception('Plane cannot take off while flying')
+        self.isflying = True

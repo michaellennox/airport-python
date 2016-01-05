@@ -9,8 +9,8 @@ I have aimed to solve this challenge in a test driven manner with automated feat
 Clone the repository then change directory into it.
 
 ```
-$ git clone git@github.com:michaellennox/oystercard-python.git
-$ cd oystercard-python
+$ git clone git@github.com:michaellennox/airport-python.git
+$ cd airport-python
 ```
 
 Install and activate VirtualEnv
